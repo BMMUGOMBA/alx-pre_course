@@ -1,1 +1,3 @@
 My first readme
+ALX IS COOL
+UPDATING FROM GITHUB SITE
